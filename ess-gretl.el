@@ -3,7 +3,7 @@
 ;; Copyright (C) 2012 Ahmadou DICKO.
 ;;
 ;; Filename: ess-gretl.el
-;; Author: Ahmadou DICKO (based on ess-julia.el and gretl.el)
+;; Author: Ahmadou DICKO and Spinu Vitalie (based on ess-julia.el and gretl.el)
 ;; Maintainer: Ahmadou DICKO
 ;; Created: 01-10-2012 (ESS 12.09)
 ;; Keywords: ESS, gretl, econometrics
@@ -12,7 +12,7 @@
 ;;
 
 ;; This file is *NOT* part of GNU Emacs.
-;; This file is part of ESS
+;; This file is *NOT YET* part of ESS
 ;;
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
